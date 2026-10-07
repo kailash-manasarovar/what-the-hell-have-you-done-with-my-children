@@ -7,45 +7,62 @@ site = Path("site")
 
 site.mkdir(exist_ok=True)
 
-# Convert Markdown files to HTML
-for md_file in sorted(content.glob("*.md")):
-
-    html = markdown.markdown(
-        md_file.read_text(encoding="utf-8"),
-        extensions=["extra"]
-    )
-
-    output = site / md_file.with_suffix(".html").name
-    output.write_text(html, encoding="utf-8")
-
-    print(f"Built {output}")
-
-# Build the TOC from the HTML files in site/
-chapters = sorted(site.glob("*.html"))
+# Remove old generated HTML files
+for old_file in site.glob("*.html"):
+    old_file.unlink()
 
 toc = []
 
-for chapter in chapters:
+# Build every Markdown file
+for md_file in sorted(content.glob("*.md")):
 
-    # Remove the file extension
-    title = chapter.stem
+    text = md_file.read_text(encoding="utf-8")
 
-    # Remove leading number, e.g. 01-
-    title = re.sub(r"^\d+-", "", title)
+    # Get the first H1
+    match = re.search(r"^# (.+)$", text, re.MULTILINE)
 
-    # Turn hyphens into spaces
-    title = title.replace("-", " ")
+    if match:
+        title = match.group(1).strip()
+    else:
+        title = md_file.stem
 
-    # Capitalise words
-    title = title.title()
-
-    toc.append(
-        f'        <li><a href="site/{chapter.name}">{title}</a></li>'
+    # Convert Markdown to HTML
+    html = markdown.markdown(
+        text,
+        extensions=["extra"]
     )
 
+    # Create the HTML page
+    output = site / md_file.with_suffix(".html").name
+
+    page = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title}</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<main>
+{html}
+</main>
+</body>
+</html>
+"""
+
+    output.write_text(page, encoding="utf-8")
+
+    # Add it to the TOC
+    toc.append(
+        f'        <li><a href="site/{output.name}">{title}</a></li>'
+    )
+
+    print(f"Built {output}")
+
+# Build the TOC
 toc_html = "\n".join(toc)
 
-# Put the TOC into index.html
 index = Path("index.html")
 html = index.read_text(encoding="utf-8")
 

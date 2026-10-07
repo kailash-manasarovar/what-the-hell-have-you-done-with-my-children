@@ -98,3 +98,35 @@ blockquote {
         font-size: 2rem;
     }
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 30px 0;
+    font-size: 0.9rem;
+    line-height: 1.45;
+}
+
+th {
+    background: #333;
+    color: white;
+    padding: 12px 10px;
+    text-align: left;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+td {
+    padding: 12px 10px;
+    border-bottom: 1px solid #ddd;
+    vertical-align: top;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background: #f7f5f1;
+}
+
+tr:hover {
+    background: #eeeae3;
+}
