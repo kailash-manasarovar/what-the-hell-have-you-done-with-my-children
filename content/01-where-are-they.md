@@ -5,7 +5,7 @@
 - You cannot imagine how angry the world will be too - way more than me, I'm kind of restrained from my non-judgement practices. 
 - Is this where the riots come from? I wouldn't be surprised. 
 - It won't be just me either.
-- It'll be locked in with and part of their pedo-porn freetown paradise set ups in Bali, Thailand, and Spain, and elsewhere no doubt.
+- It'll be locked in with and part of their pedo-porn freetown paradise set ups in Bali, Thailand, Ireland and Spain, and elsewhere no doubt.
 - I feel like rioting. Don't you?
 - Bastards.
 
