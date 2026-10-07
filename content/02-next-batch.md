@@ -1,4 +1,4 @@
-# 2. Next batch
+# Next batch
 
 - wip
 
