@@ -1,7 +1,7 @@
 # Where are my children
 
 - I know I'm going to have a lot of help filling this out from my wolf and leopard friends, and my lamb and cow friends that cannot believe what's been done in their names.
-- You cannot imagine how angry I become when I started considering all this carefully.
+- You cannot imagine how angry I become when I start considering all this carefully.
 - You cannot imagine how angry the world will be too - way more than me, I'm kind of restrained from my non-judgement practices. 
 - Is this where the riots come from? I wouldn't be surprised. I feel like rioting.
 - Bastards.
