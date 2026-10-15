@@ -116,3 +116,7 @@
 - I was invited to Nokia offices with my new job after the Mike Wenham fiasco where I was working as an app dev, but they made me a secretary again.
 - There was just a few of us there, the company was super small, and about four of us went for drinks and one of them was a Brazilian boy who had been studying with the Brazilian rabbi that gave talks at the SAME CONFERENCE Richard Freed invited me to in Barcelona in 2007, just before they ordered my poisoning.
 - This was 2011 sometime, November maybe. I had bad colitis from whatever happened to me in India while I was studying yoga with the Chanchanis.
+
+## Pictures from the book
+
+- Pictures I thought the trumpet teacher was sending me could well be direct threats on children from the mousses instead.
