@@ -13,7 +13,6 @@
 
 - I feel pain in my head one night, early morning, like forceps; it's another one of my children being born.
 
-# New information - coming in from sources
 ## First addition after ebook publishing 29 September 2026
 
 - Sandra Diaz's name is Benedetta and I'm told she's hiding out in Honduras - her Liverpudlian accomplice, "Andrew", will confirm.
@@ -120,3 +119,5 @@
 ## Pictures from the book
 
 - Pictures I thought the trumpet teacher was sending me could well be direct threats on children from the mousses instead.
+- The boy I thought was his son.
+- Yasmin, Zoe's daughter.
