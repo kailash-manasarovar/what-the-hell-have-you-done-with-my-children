@@ -121,3 +121,21 @@
 - Pictures I thought the trumpet teacher was sending me could well be direct threats on children from the mousses instead.
 - The boy I thought was his son.
 - Yasmin, Zoe's daughter.
+
+## Sweden
+
+- I was always confused about "Sweden"... obviously a mousse signal, a repeated one, but I had no idea what it meant, until now.
+- We had the red-haired financial controller from Sweden, friend of Adam's from Sweden, both attendees with Steve, both actors, waffly reasons for them being there really...
+- Then when they hacked my GA account, every time I posted a new section (from November 2025 onwards), I'd see immediately viewers from the US, and Sweden, and a couple of other countries I can't remember - you'll have the screenshots I'm sure. Like clockwork it was, until Bali, then it stopped (I reported when it stopped already if that's a bit wrong, it was suddenly).
+- The other countries made sense, but Sweden, it was a bit strange up there at the top of viewers.
+- And then... hmmm... I see that they were trying to trigger the memory of the book I had read back in 2000 or earlier about an American Lockerbie whistle-blower who had got asylum in Sweden because of it!
+- He had married a Lebanese woman - who had a twin sister - and when I was working at Philips Electronics in Amsterdam, a Lebanese woman approached me (drama, needed to talk etc), she was Mr Boenstra's number 2 assistant, and she was talking about her twin sister in Sweden... married an American, etc.
+- All this was in a book I didn't even believe... cos people say so much nonsense you never know what to believe.
+- But anyway, she was obviously a mousse prompt looking back.. and then when I was back in Hastings UK the following year with Brian, I emailed her one night when I was feeling stressed (from repeated sedation/rape events probably...). 
+- This was probably a hint that there is always an appropriate delay with me...
+- So obviously Ugly was tasked with the old abomination business back in 2001 because I was just getting more and more annoying, probably - what was the intention, suicide, sex tapes for sure. Now that's backfired wonderfully, even up to a few weeks ago they were still trying to make me miserable with prompts about.. but we've got you riding, etc, are you sure you want everyone to see it... I mean please, they never stop do they.
+- I pointed out that half the world had already seen it anyway.
+- I wonder if Brian was "instructed" to continue with the sedating for his mates and God-knows who else, because he did do, even when he realized his mistake, and he was angry and guilty about it too, and I expect that is why his life floundered so dramatically (aside from the drugs/alcohol).
+- It amazes me that they think just cos you're unconscious there won't be any effect, or perhaps they don't think that at all, perhaps they know very well the trajectory for women and that's the whole point.. anyhoo.
+- Sweden.
+- There it is.
