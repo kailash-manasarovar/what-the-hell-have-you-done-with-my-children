@@ -1,5 +1,29 @@
 # Next batch
 
+## Lockerbie
+
+- December 21st, 1988, the longest night.
+- A delay.
+- They went ahead anyway.
+- Evidence strewn over 845 square miles in Scotland.
+- An epic disaster, in so many ways, for so many interests.
+
+## Sullivan at the funeral
+
+- My dad never stops going on about this meeting.
+- Americans plan sex-tape activity on me, to keep me quiet if necessary.
+
+## Hillsborough
+
+- Such a mess, Hillsborough was organized to "take everyone's minds off the mess of Lockerbie".
+- Thatcher was filmed, famously, saying something equivalent just after the mass murder.
+- Liverpudlian gangsters were not convinced, at all, and were paid off by the Americans, en masse, with up to £300K a pop.
+- I heard even the referee was paid off.
+
+## Sex-tape plans continue
+
+- wip
+
 ## The Arena August 1989
 
 - Winston May moves in for the kill.
@@ -7,6 +31,61 @@
 - There are agents at the club, watching what's going on, what he's doing, angry and upset. I report this to the Met in 2015 (maybe in 2006 also).
 - Winston May knows he's invulnerable, somehow.
 - Him and his mate Busby, have just got back from New York. Winston never stops going on about the adventure - where I believe, if I remember rightly, they were both arrested - as well as his trip to the Marina Alta with Nikki.
+
+## Porn of me distributed widely
+
+- Thing is, the criminal underworld knew of the Lockerbie plot already, and I was involved somehow, and so they knew I was untouchable and they could do whatever they liked to me, no-one would come to help, from way back even then.
+- Enter Chris Ludwick and Carl Brian, and the N8 band culminating in a special event (which may have included my other girlfriends.. who hated me too)..
+- We were all still at school.
+
+## Abomination of desolation
+
+- Just a free for all really wasn't it.
+- Dad involved - that kept him quiet.
+- Robert involved - that kept him quiet, and very useful.
+- Criminal porn gangs and American secret service becoming indistinguishable.
+
+## Hillsborough means British women are in danger everywhere in the world
+
+- Not just me though, was it.
+- Because Hillsborough was such a disaster, and everyone knew the truth about it, British women became instantaneous free game for criminal pornographers.
+- In fact, it got so bad, so quickly, the Americans decided they needed to do something to make sure it didn't come back on them.
+- And so they cooked up the Diana lie.
+
+## Diana
+
+- wip.
+
+## British women, and everyone else too, in danger
+
+- So British women continued to be in peril from criminal pornographers whose tastes were already murderous, except everyone thought now it was because of the British!
+- Again, utterly preposterous, but no-one really cared if they can do what they like while people believe it.
+- And so this rogue group of Lupins tasked with the murder of Diana were now untouchable in the same town of Denia.
+- And they became more and more insane, setting up porn studios in local schools, and procuring women to make babies for them, for more porn.
+- An area of the world where most of the younger generation all suffer with preverbal sexual trauma.
+- And so Denia became a pervert's paradise, and a criminal safe space, where they could do whatever they want, to whoever they like, with no fear of repercussions.
+
+## Antonio
+
+- wip ?? 
+- The story I don't yet have.
+
+## Let's get Pretty Katie to Denia
+
+- So Ray, Matt, etc were setting that up, and that was all in hand.
+
+## Moses
+
+- Then I saw Moses, again agents in attendances.
+- Then in Denia, I picked up the white stone.
+- It all got a bit too hot for Raybee.
+
+## Lockerbie compensation
+
+- Criminal pornographers knew about this before anyone - at the same time as the Americans obviously (their counterparts).
+- Brian was set up by Ugly to be my boyfriend, and continue the rape-porn revenue stream.
+
+## ..
 
 ## August 2025
 
@@ -104,9 +183,6 @@
 - So it was all such a mess, and getting messier and messier, they thought up something even more evil to distract everyone from it but more importantly to threaten the country in perpetuity over it... silly woman, what was she thinking.
 - Moses put the cat amongst the pigeons, didn't he.
 
-## Hillsborough
-
-- After Sullivan.
 
 ## He sends rainbows
 
