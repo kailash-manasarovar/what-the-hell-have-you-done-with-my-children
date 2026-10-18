@@ -1,6 +1,12 @@
 # Next batch
 
-- wip
+## The Arena August 1989
+
+- Winston May moves in for the kill.
+- I've been prepped by Howard (who we can probably link to Geetha's uncle).
+- There are agents at the club, watching what's going on, what he's doing, angry and upset. I report this to the Met in 2015 (maybe in 2006 also).
+- Winston May knows he's invulnerable, somehow.
+- Him and his mate Busby, have just got back from New York. Winston never stops going on about the adventure - where I believe, if I remember rightly, they were both arrested - as well as his trip to the Marina Alta with Nikki.
 
 ## August 2025
 
