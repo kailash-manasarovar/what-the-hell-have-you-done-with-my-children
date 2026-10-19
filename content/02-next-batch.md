@@ -109,7 +109,7 @@
 
 ## Anita and Matthew Diamond
 
-- Two weeks after I arrive in Denia, Anita and Matthew visit and stay for two weeks (they pretty much invited themselves).
+- Two weeks after I arrive in Denia in September 2006, Anita and Matthew visit and stay for two weeks (they pretty much invited themselves).
 - He's going to hack my laptop and she's a distraction.
 - They manipulate me into joining Guardian Soulmates where Dave Porter visits me about a month or so later, probably also to hack my systems.
 - The local people know what's going on and there was some kind of warning about it - I think they stole a book, then put it back, and I noticed and thought Anita had walked off with it.
@@ -117,7 +117,7 @@
 ## Hazel Smith tasked with murdering me
 
 - In 2007. 
-- I think maybe this delayed the horse-porn efforts a little because they started to steal my eggs instead.
+- I think maybe this delayed the horse-porn, murder-porn efforts a little because they started to steal my eggs instead.
 - Or at some point, someone had the bright idea to do that, and just like the pedo rape-porn from 1989, the idea took off, and went wild!
 - So security services and rape-pornographers are now utterly indistinguishable.
 
@@ -127,7 +127,7 @@
 - The story I don't yet have.
 - My guess is... Antonio and his pals, and the Lopez Cano's, do not see eye to eye necessarily.
 - I expect the Americans creating a mini-dictatorship of criminally insane pornographers with a taste in murder and violence and pedophilia and baby-rape did not sit well with everyone in the region.
-- So, I'm just another woman they're sedating and raping, and manipulating online, and getting film of her brother doing the same, but even though I am already deemed "special"  by security services (Lockerbie, sex-tapes, the Course In Miracles and surviving poison - all these together make a little explosive I guess) something happens to change my status with the local people in the region, not enough to save me from the porn-slab however..
+- So, I'm just another woman they're sedating and raping, and manipulating online, and getting film of her brother doing the same, but even though I am already deemed "special"  by security services (Lockerbie, sex-tapes, the Course In Miracles and surviving poison - all these together make me a little explosive I guess) something happens to change my status with the local people in the region, not enough to save me from the porn-slab however..
 
 ## The Liar
 
@@ -161,13 +161,15 @@
 - And they also knew that CIA, British security services, and the Chabad people had ordered Hazel to murder me by poison in 2007, which I survived.
 - And then when I was attending course with Steve during 2020-2021 in Belfast and Lourdes, and 2022-2024 in Denia, who had also hacked the spy-cam network at my houses watching everything that was happening to me, they must have been very suspicious about me.
 - So they must have known I was special, long before I got wind of it, and this made the people of Denia go crazy, a true crucifixion.
-- The Light has the tendency to do this to human beings; to make them crazy and do anything they can to put it out.
+- The Light has the tendency to do this to human beings; to make them crazy and do anything they can to put it out. I describe this insane process of the human mind extensively in The Liar, in Forgiving the Unforgivable, and my novels reflect the knowledge of it also.
 
 ## A big gap in the story as I understand it here
 
 - I can't link what happened to me in Denia (ordered by the Americans obviously who were stealing my eggs wantonly and therefore required my demise even more than just cos I knew about Sullivan) in 2022-2024 to God speaking through me to Antonio previously, although this was clearly still happening and he reached out and cried in my arms.
+- He felt safety, sanctuary. I wonder if that makes me the sanctuary that will be restored?!
 - It's hard to understand if Antonio was threatened by the Americans because of me! Or he was already a POI (threatened by them) because of something that had happened previously regarding Lockerbie.
-- If it was because of me, I'm horrified about it and the world will be too.
+- If it was because of me, I'm horrified about it, devastated actually, and the world will be too.
+- But I do believe there's nothing we can't fix, together.
 
 ## Elke's course
 
@@ -178,23 +180,27 @@
 - I guess he didn't know how strong I am. It's unclear here...
 - I have a vague memory of him asking me for my number... but he'd just sedated me and had me raped, and the WHOLE BODY knows it... it wasn't the moment.
 - This is all very unclear... I don't understand it.
-
-## The English course
-
-- So he's there in December 2013, watching, so is Mark, the two of them turn up as trumpet teachers in 2022-2024 but they're probably coming round my house regularly too, certainly Antonio is.
-- Lorraine's still very much alive, and a little bit involved in what they're doing to women.
+- Was it someone else, pretending to be him if they needed it?
+- Time will tell.
 
 ## Domingo's first meeting with my dad
 
-- My dad is sent over (is this to do with them getting worried about the effect my book has had on Antonio?)...
-- Domingo is at my house while I'm sedated.
+- My dad is sent over in early 2013 around the same time (is this to do with them getting worried about the effect my book has had on Antonio?)...
+- Domingo is at my house while I'm sedated during Fallas.
 - Dad remembers him when he visits London in December 2014.
+
+## The English course
+
+- So he's there in December 2013, watching, so is Mark definitely (him, it's unclear), the two of them turn up as trumpet teachers in 2022-2024 but they're probably coming round my house regularly too, certainly Antonio is.
+- Wouldn't I have remembered the man from Elke's course?
+- Lorraine's still very much alive, and a little bit involved in what they're doing to women.
 
 ## The conservatory
 
 - I join the conservatory in 2014.
-- Had the Americans already ordered my horse-porn murder years before?
-- How many eggs had the extracted by then; how many children did I have by then already?
+- Had the Americans already ordered my horse-porn murder years before? 
+- Was Steve involved in the re-ordering of the horse-porn in 2022-2024 like hackers suggested?
+- How many eggs had they extracted by then; how many children did I have by then already?
 - Was my sudden "opening up" and hearing God at The Wall a bit of an inconvenience?
 - Did the Denia people have to go on with what they were being paid for even though everything had changed?
 - There's so much to understand here.
