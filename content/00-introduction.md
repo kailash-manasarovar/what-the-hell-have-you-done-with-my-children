@@ -84,15 +84,17 @@
 ## Lockerbie compensation
 
 - Criminal pornographers knew about this before anyone - at the same time as the Americans obviously (their counterparts).
-- Brian was set up by Ugly to be my boyfriend, and continue the rape-porn revenue stream.
+- Brian was set up by Ugly to be my boyfriend, and continue the rape-porn revenue stream, and have the necessary significant "terror event" from Amsterdam in place if I ever felt the need to start telling everyone about Sullivan.
+- Amazing that Ugly thought the Lopez Cano's had dropped him in it in 2024... 
 
 ## I'm sent again to Denia, criminal porn capital of the world
 
 - It'll be a future research study like no other.
 - What happens to men when they are given the freedom to do whatever they like to women and children without consequence.
-- Americans loving their little fiefdom where they can also do whatever they like to women and children, and no-one will be able to do a thing about it.
+- (Never mind what happens to groups of people so arrogant they think they can steal a woman's eggs to make babies with no consequence... you gotta wonder if they've been doing this with other "famous" women... seems likely).
+- Americans loving their little fiefdoms (Denia, Bali, Lamai) where they can also do whatever they like to women and children, and no-one will be able to do a thing about it.
 - British security service rape-addicts not having too much of a problem with it either.
-- Because not only is it a criminal porn haven, it is also a place you can send annoying British women you never want to see again, or if you do, they're brain damaged and traumatized beyond repair.
+- Because not only is Denia a criminal porn haven, it is also a place you can send annoying British women you never want to see again, or if you do, they're brain damaged and traumatized beyond repair.
 - And so my porn demise was re-ordered, after having had a little break while the Diana dust settled and British criminals were set up in the town, and everyone was figuring out how to best maximize on the lawlessness.
 - I got some money from Lockerbie and went back to university (what I would have done had I not been gang raped repeatedly while I was still at school) so I was also free to travel around the world extensively, which is interesting too.
 
@@ -117,9 +119,12 @@
 ## Hazel Smith tasked with murdering me
 
 - In 2007. 
-- I think maybe this delayed the horse-porn, murder-porn efforts a little because they started to steal my eggs instead.
-- Or at some point, someone had the bright idea to do that, and just like the pedo rape-porn from 1989, the idea took off, and went wild!
-- So security services and rape-pornographers are now utterly indistinguishable.
+- It's a week after Richard Freed invites me to meet all his Chabad friends in Barcelona at a conference.
+- Inma from Madrid (who I met on a retreat set up by the Yogi Bhajan people) and knew immediately she was hiding something and I had met (it was arranged) Richard in Lamai a month or so previously and he invited us both to the conference, but Inma didn't come (he wasn't really inviting her).
+- Hazel is tasked by the Chabad people via the ACIM CIA folk to poison me. 
+- I survive.
+- This probably delayed them murdering me, via the horse-porn then murder-porn efforts because they started to steal my eggs instead and they had up to menopause to get as many as they liked (I'm told it's 32 children currently)...
+- Security services and rape-pornographers are now utterly indistinguishable.
 
 ## Antonio
 
