@@ -56,6 +56,12 @@
 - I believe they must have decided I am the "Abomination of Desolation" as described in the Bible in the Old and New Testaments due to the sedated rape I'm so famous for, and have been since Lockerbie, in fact, and then when I started to survive poisoning, they lost their minds completely to evil.
 - I'm told I have 32 live children in the world from such thefts.
 
+## One in a million
+
+- I think Antonio is one of those one-in-a-millions that would not accept a pay off from the Americans about Lockerbie and Hillsborough.
+- I think he just wanted his town back to normal, and the kids safe again.
+- I think they punished him for that; I'm told they murdered his daughter. I will need to confirm this and other things I've been "told".
+
 ## Steve and the TT lot
 
 - Closely connected to the Chabad people stealing my eggs since 2007 is Steve Terrell and the Transforming Touch people.
