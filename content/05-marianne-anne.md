@@ -21,7 +21,7 @@
 - She had bright red lipstick on.
 - Marianne knew the waiter at one of the Israeli-owned cafes in Lourdes by name (the man that always reminded me of the American eagle on the Muppets, a lovely man but tremendously sad maybe).
 - The way she knew him reminded me of the way Geetha addressed Matthew Copeland that time she saw him with me; as if she knew him very well, who he was and what he was about, and she was reminding him superciliously that she did.
-- Apart from some inconsequential things about well known Course students and how they coped (often very badly) with the spy-flooding perhaps, Marianne had a couple of extremely important things to tell me.
+- Apart from some inconsequential things about well known Course students and how they coped (often very badly) with the spy-flooding, Marianne had a couple of extremely important things to tell me.
 
 ## Israel murder people from the Course community
 
@@ -38,20 +38,20 @@
 - She then mentioned Spiro.
 - My dad had been talking about Spiro. In fact, Spiro was why my dad thought Israel was to blame for Lockerbie but my guess is poor Spiro was set up by the Americans... but that's the story I understood and perhaps it was even clearer if it was so long ago.
 - Anyway, all this, for me, is coming from things my dad told me... so I'm probably a million percent wrong on everything but I'll just report as I heard and remembered it.
-- It's really unclear actually. I thought Marianne and my dad were talking about something that had happened more recent to 2012, not 1992 as ChatGPT just told me. Anyway.
+- It's really unclear actually. I thought Marianne and my dad were talking about something that had happened more recent to 2014, not 1992 as ChatGPT just told me. Anyway.
 - Dad had told me this Spiro (a Jewish man - British ChatGPT tells me) was making a film about Lockerbie which blamed Israel for it, and he had proof apparently. That's what dad said.
-- I was not sure when all this was, but prior to May 2014 obviously, although I had thought not so long before and not way back in 1992.
 - Spiro and his family were murdered most horribly, and my dad did not spare me any details, and everyone went quiet about Lockerbie from then on.
-- Marianne, after telling me about this British woman who was run over, says she was learning Hebrew in London with a man called Spiro a few years before and my ears pricked up immediately - as they were meant to.
-- I remembered what my dad had said about Spiro, and didn't say another word about it.
+- Marianne, after telling me about this British woman who was run over, says she was learning Hebrew in London with a man called Spiro a few years before and my ears pricked up immediately - as they were meant to because they knew my dad had told me about him in very serious tones and I had been shocked (the house having been bugged from the early 90s, you see)!
+- I remembered what my dad had said about Spiro, and didn't say another word about it, but it was very clear what Marianne was trying to tell me.
 - She was warning me about Lockerbie to the effect that if you mention it, you will be murdered by the Israelis, which is extraordinary really in so many ways.
-- I was just serving Our Lady at the baths, trying to be a good person, trying to live a normal peaceful life, getting sedated and raped regularly by everyone and anyone, writing a book about rape-gangs essentially because I had been inspired by one of the rapists coming into my house, and egg thefts had already begun in earnest at Richard Freed's orders.
+- I was just an innocent civilian taxpayer, serving Our Lady at the baths, trying to be a good person, trying to live a normal peaceful life, getting sedated and raped regularly by everyone and anyone, writing a book about rape-gangs essentially because I had been inspired by one of the rapists coming into my house in a most extraordinary manner, and egg thefts had already begun in earnest at Richard Freed's orders.
 - I was obviously a serious concern.
 - Like all other intense spy-interest activities, she never contacts me again.
 
 ## Matthew Diamond gets run over
 
-- I find it interesting that he would be really keen to tell me this that one time we spoke when I was working for CIA-set-up company Qredo with Anita.
+- I find it interesting that he would be really, really keen to tell me this that one time we spoke when I was working for CIA-set-up company Qredo with Anita.
+- I don't think he had anything else to say to me at all.
 
 ## Anne
 
@@ -59,7 +59,9 @@
 - She's called Anne and looks completely different, but I recognize her nonetheless, and she knows it too.
 - I'm amazed.
 - I give her a big hug and a kiss without saying anything at all.
-- But she knows, and the day I decided to leave Bali, she had been crying beside me in yoga class and I notice, but file it away, and later I think this was a set up and they were expecting me to mention her and how I knew her (which I had a little on Substack already which they were using to communicate with me, such as how you never forget people you fall in love with no matter how they look.. and other significant things like someone who had sat where Bernadette had sat across the river..)
+- She's the one I told about seeing Glastonbury, and then the vision disappearing once I'd told everyone, and she said (flea in ear most likely), *oh we're all a bit like that here*, which was interesting.
+- So she knows I know, and the day I decided to leave Bali, she had been crying beside me in yoga class and I notice, but file it away, and later I think this was a set up because I know she's probably one of the big bosses by now, and they were expecting me to mention her and how I knew her (which I had a little on Substack already which they were using to communicate with me, such as how you never forget people you fall in love with no matter how they look.. and other significant things like someone who had sat where Bernadette had sat across the river..).
+- So probably God had set it up so they didn't really know what to do with me, but I was as interesting to them as they were to me!
 - I realize Marianne was wearing a disguise back in Lourdes in 2014.
 - Extraordinary isn't it.
 
