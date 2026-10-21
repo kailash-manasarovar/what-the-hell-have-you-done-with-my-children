@@ -41,7 +41,7 @@
 - Anyway, all this, for me, is coming from things my dad told me... so I'm probably a million percent wrong on everything but I'll just report as I heard and remembered it.
 - It's really unclear actually. I thought Marianne and my dad were talking about something that had happened more recent to 2014, not 1992 as ChatGPT just told me. Anyway.
 - Dad had told me this Spiro (a Jewish man - British ChatGPT tells me) was making a film about Lockerbie which blamed Israel for it, and he had proof apparently. That's what dad said.
-- Spiro and his family were murdered most horribly, and my dad did not spare me any details, and everyone went quiet about Lockerbie from then on.
+- Spiro and his family were murdered most horribly, in America, and my dad did not spare me any details, and everyone went quiet about Lockerbie from then on.
 - Marianne, after telling me about this British woman who was run over, says she was learning Hebrew in London with a man called Spiro a few years before and my ears pricked up immediately - as they were meant to because they knew my dad had told me about him in very serious tones and I had been shocked (the house having been bugged from the early 90s, you see)!
 - I remembered what my dad had said about Spiro, and didn't say another word about it, but it was very clear what Marianne was trying to tell me.
 - She was warning me about Lockerbie to the effect that if you mention it, you will be murdered by the Israelis, which is extraordinary really in so many ways.
