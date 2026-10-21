@@ -50,7 +50,7 @@
 
 ## Matthew Diamond gets run over
 
-- I find it interesting that he would be really, really keen to tell me this that one time we spoke when I was working for CIA-set-up company Qredo with Anita.
+- I find it interesting that he would be really, really keen to tell me this that one few minutes we spoke in 20 years when I was working for CIA-set-up company Qredo with Anita.
 - I don't think he had anything else to say to me at all.
 
 ## Anne
