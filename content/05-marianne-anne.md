@@ -14,7 +14,8 @@
 - We hung out and I soaked up her energy very well, but I knew she was a spy.
 - I liked her.
 - I'll never forget the bird warning about her though; she might remember.
-- I told her many things I was thinking about... actually, she probably drugged me a little because I remember saying some quite out-there things to her such as I thought the Viscos mountain was the upside down triangle in the Last Supper, things of this nature.
+- She went on about feeling like she was at the holocaust as we waited for the baths, which I thought was a little odd.
+- I, in turn, told her many things I was thinking about... actually, she probably drugged me a little because I remember saying some quite out-there things to her such as I thought the Viscos mountain was the upside down triangle in the Last Supper, things of this nature.
 - I also suspect she hypnotized me with this little machine she was desperate to put on so that'd I'd hear this particular song and it was so contrived I knew something fishy was going on.
 - Anyway.
 - She was dressed in black in much the same way she was dressed in San Francisco - a big long puffy skirt which made it unclear if she was thin or fat - and her pale features were blurred behind a lot of black hair and glasses maybe (maybe not glasses, it's difficult to remember).
@@ -60,7 +61,7 @@
 - I'm amazed.
 - I give her a big hug and a kiss without saying anything at all.
 - She's the one I told about seeing Glastonbury, and then the vision disappearing once I'd told everyone, and she said (flea in ear most likely), *oh we're all a bit like that here*, which was interesting.
-- So she knows I know, and the day I decided to leave Bali, she had been crying beside me in yoga class and I notice, but file it away, and later I think this was a set up because I know she's probably one of the big bosses by now, and they were expecting me to mention her and how I knew her (which I had a little on Substack already which they were using to communicate with me, such as how you never forget people you fall in love with no matter how they look.. and other significant things like someone who had sat where Bernadette had sat across the river..).
+- So she knows I know, and the day I decided to leave Bali, she had been crying beside me in yoga class and I notice, but file it away, and later I think this was a set up because I know she's probably one of the big bosses by now, and they were expecting me to mention her and how I knew her (which I had a little on Substack already which they were using to communicate with me, such as how you never forget people you fall in love with no matter how they look.. and other significant things such as the person who had sat where Bernadette had sat across the river when Our Lady appeared for the last time in July 1858, where Marianne had sat in 2014..).
 - So probably God had set it up so they didn't really know what to do with me, but I was as interesting to them as they were to me!
 - I realize Marianne was wearing a disguise back in Lourdes in 2014.
 - Extraordinary isn't it.
