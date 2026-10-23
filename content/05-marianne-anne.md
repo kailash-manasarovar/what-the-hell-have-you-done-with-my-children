@@ -14,6 +14,7 @@
 - We hung out and I soaked up her energy very well, but I knew she was a spy.
 - I liked her.
 - I'll never forget the bird warning about her though; she might remember.
+- She told me AirBnB would be good for me. I thought it was an odd thing to say. Not now!
 - She went on about feeling like she was at the holocaust as we waited for the baths, which I thought was a little odd.
 - I, in turn, told her many things I was thinking about... actually, she probably drugged me a little because I remember saying some quite out-there things to her such as I thought the Viscos mountain was the upside down triangle in the Last Supper, things of this nature.
 - I also suspect she hypnotized me with this little machine she was desperate to put on so that'd I'd hear this particular song and it was so contrived I knew something fishy was going on.
