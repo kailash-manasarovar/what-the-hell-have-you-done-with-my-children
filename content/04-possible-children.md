@@ -13,13 +13,14 @@
 ## Is this another?
 
 - She also has my eyebrows.
+- And my nose I just realized - one doesn't get to look at one's nose the whole time so it's not obvious to me. I expect it'll be VERY obvious to people who know me.
 - Are there 32 children of mine in the world?
 
 ![Another one of mine](../images/my-children/possible-children-2.png)
 
 ## Is this small boy one of mine?
 
-- It's difficult to see. I'm more sure about number 2.
+- It's difficult to see. I'm more sure about the previous one.
 
 ![One of mine again](../images/my-children/boy-3.png)
 
