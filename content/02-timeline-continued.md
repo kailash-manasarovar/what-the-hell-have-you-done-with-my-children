@@ -1,5 +1,9 @@
 # Timeline continued
 
+- I don't think I'll bother with this.
+- Cataloguing the activities of the beast from the bottomless pit is pretty boring, actually.
+- I'll add names and dates probably.
+
 ## June 2025
 
 ...

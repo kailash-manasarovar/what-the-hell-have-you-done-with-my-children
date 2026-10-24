@@ -1,5 +1,7 @@
 # Introduction
 
+- This small pamphlet follows on from Fear & Loathing in Las Marinas, my attempts at uncovering the truth about what was happening to me and save my life at the same time.
+
 ## Lockerbie
 
 - December 21st, 1988, the longest night.
