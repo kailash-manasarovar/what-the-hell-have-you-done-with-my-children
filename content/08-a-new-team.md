@@ -1,10 +1,10 @@
 # A new team
 
-- Or how Oasis is the understatement of the millennia.
+- Or how Oasis, Today is the understatement of the millennia.
 
 ## God heads the new team
 
-- Oh, I can feel the terror right now... :DDDDDD
+- Oh, I can feel the mousse-terror right now... :DDDDDD
 
 ## Team members
 
