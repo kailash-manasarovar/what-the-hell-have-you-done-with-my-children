@@ -37,6 +37,24 @@
 
 - If mine (and the others, like Steve's, not sure about Guruji if he has some special properties..) children have been a "research project" of sorts, they might be even paying them to have one while they "research", i.e. poke, prod.. etc.
 - It's unconscionable.
+- I'm just wondering how Anita tells her son she deliberately led his true mother to what she very much knew would be her death by porn.
 
+## Ruth
 
+- A tiny baby, conceived in or around May 2024, in Bali.
+- I met her in June and September of 2025 and have written about it.
+
+## The blond toddler who reached for me in the baths at Cauterets
+
+- I have written about this instance of spy-flooding occurring in July/August 2025 when they were all over me in Cauterets, lying to me about Antonio going to Israel, and performing surgery at the same time and injuring me in the process - I bled for some days afterwards and thought it was period. It wasn't.
+- Even though I had been noticing the keyhole scars for some time - unusual little things they are - the very idea that what was actually happening was a possibility in this world, that it could even be a thought in someone's head, was so far from the imagination, it took God Himself to tell me in August 2026 so I'd believe it.
+- He told me other stuff too about this sort of thing, notably his connecting Parmarth Niketan to me and I believe it is because they have been doing the same to the guru there too, and to an even more hideously scaled-up level.
+- As much as the leaves on a tree, She said today.
+- It's much easier too, with sperm of course, you can get heaps of it all in one go.
+
+## The beautiful boy in Tiferet Square
+
+- Could he have been one? He was absolutely delightful and very interested in me.
+- An extremely fair boy.
+- I met him on my visit in August 2026.
 

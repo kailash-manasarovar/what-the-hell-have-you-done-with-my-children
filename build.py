@@ -5,27 +5,63 @@ from html import escape
 
 content = Path("content")
 site = Path("site")
+chapter_list = Path("chapters.txt")
 
 site.mkdir(exist_ok=True)
 
-# Find all Markdown files in reading order
-md_files = sorted(content.glob("*.md"))
-
-# Build the table of contents first
+# Read chapter titles and filenames from chapters.txt
+# Format: Chapter Title|filename.md
 chapters = []
+md_files = []
 
-for md_file in md_files:
-    text = md_file.read_text(encoding="utf-8")
-    match = re.search(r"^# (.+)$", text, re.MULTILINE)
+for line_number, line in enumerate(
+    chapter_list.read_text(encoding="utf-8").splitlines(), start=1
+):
+    line = line.strip()
 
-    title = match.group(1).strip() if match else md_file.stem
+    # Ignore blank lines and comments
+    if not line or line.startswith("#"):
+        continue
+
+    if "|" not in line:
+        raise ValueError(
+            f"Invalid line {line_number} in chapters.txt. "
+            "Use the format: Chapter Title|filename.md"
+        )
+
+    title, filename = line.split("|", 1)
+    title = title.strip()
+    filename = filename.strip()
+
+    if not title or not filename:
+        raise ValueError(
+            f"Missing title or filename on line {line_number} "
+            "of chapters.txt."
+        )
+
+    if Path(filename).name != filename or not filename.endswith(".md"):
+        raise ValueError(
+            f"Invalid Markdown filename on line {line_number}: {filename}"
+        )
+
+    md_file = content / filename
+
+    if not md_file.is_file():
+        raise FileNotFoundError(
+            f"Chapter listed in chapters.txt was not found: {md_file}"
+        )
+
+    md_files.append(md_file)
 
     chapters.append({
         "file": md_file.with_suffix(".html").name,
         "title": title,
     })
 
-# Build the TOC for chapter pages
+if not chapters:
+    raise ValueError("No chapters found in chapters.txt.")
+
+# Build the table of contents for chapter pages
 chapter_toc = "\n".join(
     f'            <li><a href="{escape(chapter["file"], quote=True)}">'
     f'{escape(chapter["title"])}</a></li>'
@@ -36,7 +72,7 @@ chapter_toc = "\n".join(
 for old_file in site.glob("*.html"):
     old_file.unlink()
 
-# Build every Markdown chapter
+# Build every Markdown chapter in the order specified in chapters.txt
 for i, md_file in enumerate(md_files):
     text = md_file.read_text(encoding="utf-8")
     chapter = chapters[i]
@@ -150,6 +186,9 @@ if count:
     index.write_text(index_html, encoding="utf-8")
     print("TOC updated on index.html")
 else:
-    print("Warning: index.html TOC was not updated; its expected structure was not found.")
+    print(
+        "Warning: index.html TOC was not updated; "
+        "its expected structure was not found."
+    )
 
 print("Book build complete.")
