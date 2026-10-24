@@ -34,3 +34,11 @@
 | 2007 | Matthew Diamond's brothers house in Walthamstow | Again, massive tiredness all of a sudden... I need to lie down. "You go and lie down Katie", she says. I sleep for about 2 hours in the master bedroom. |  |  |  |  |
 | 2007 | Barcelona | The Chabad conference. I felt extraordinarily tired and had to sleep. A man (Osama Bin Laden lookalike) let me sleep in his room. I slept for about 2 hours. I think I was drugged to feel sleepy initially. The man said "I'd have given you one", to me as he left me at the busstop to go back to Denia which I thought was very strange but makes sense if he knows I'm a mass sedated-rape victim. |  |  |  | I don't know if this was a prelim drug check or surgery. I shared a room with Richard Freed in a cheap hotel up the road from the conference hotel. Could something have happened there too? |
 | 2006 | Ickleford or nearby | Staying one night in a hotel without heating with Anita and Matthew Diamond. |  |  |  |  |
+
+## Leah's kids too
+
+- Of course they did.
+- They mashed up her brain pretty good.
+- We'll have corroboration from Adams's people sent to f*ck with her by the Americans.
+- Lockerbie/Hillsborough all the way.
+- In fact, Leah faltered really early on when she was at university in Liverpool in 1991, so it'd be really interesting to find out all about that.
