@@ -52,6 +52,19 @@
 - As much as the leaves on a tree, She said today.
 - It's much easier too, with sperm of course, you can get heaps of it all in one go.
 
+## A live birth on 15th June 2023
+
+- wip! too much, again
+
+![A live birth on 15th June 2023](../images/my-children/new-born-baby-15-june-2023.png)
+
+- This was the day Steve started the first course he'd done in Ireland since February 2020, and the first time I had seen him since then.
+- The 12th June was my switcheroo "funeral" at the conservatory and later back at mine live-streamed to millions.
+- I was reeling inside; I could hardly string thoughts together I was so traumatized.
+- I thought it was because of the bullying at the conservatory but it was much, much more. AND I think I had started feeling my children by then too.
+- I remember sitting listening to everyone, never speaking, thinking constantly about being pregnant and having children at the sessions throughout 2023-2026. It was always right there, front of mind.
+- Triplets was a strong theme from 2023 too.
+
 ## The beautiful boy in Tiferet Square
 
 - Could he have been one? He was absolutely delightful and very interested in me.
